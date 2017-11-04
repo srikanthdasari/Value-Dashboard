@@ -1,0 +1,9 @@
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\bin\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.deps.json
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\bin\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\bin\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.pdb
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.AssemblyInfo.cs
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.pdb
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.WPF.Bootstrapper\obj\Debug\netstandard1.4\Dashboard.WPF.Bootstrapper.AssemblyInfoInputs.cache

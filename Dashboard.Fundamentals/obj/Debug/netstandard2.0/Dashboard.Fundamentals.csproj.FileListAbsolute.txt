@@ -1,0 +1,9 @@
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\bin\Debug\netstandard2.0\Dashboard.Fundamentals.deps.json
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\bin\Debug\netstandard2.0\Dashboard.Fundamentals.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\bin\Debug\netstandard2.0\Dashboard.Fundamentals.pdb
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.csprojResolveAssemblyReference.cache
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.AssemblyInfoInputs.cache
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.AssemblyInfo.cs
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Fundamentals\obj\Debug\netstandard2.0\Dashboard.Fundamentals.pdb

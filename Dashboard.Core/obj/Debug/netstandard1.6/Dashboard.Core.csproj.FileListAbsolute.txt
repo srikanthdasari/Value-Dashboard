@@ -1,0 +1,7 @@
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\bin\Debug\netstandard1.6\Dashboard.Core.deps.json
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\bin\Debug\netstandard1.6\Dashboard.Core.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\bin\Debug\netstandard1.6\Dashboard.Core.pdb
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\obj\Debug\netstandard1.6\Dashboard.Core.AssemblyInfo.cs
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\obj\Debug\netstandard1.6\Dashboard.Core.dll
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\obj\Debug\netstandard1.6\Dashboard.Core.pdb
+C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.Core\obj\Debug\netstandard1.6\Dashboard.Core.csprojResolveAssemblyReference.cache

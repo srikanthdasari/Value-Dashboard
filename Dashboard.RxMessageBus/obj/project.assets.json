@@ -2431,11 +2431,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.RxMessageBus\\Dashboard.RxMessageBus.csproj",
+      "projectUniqueName": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.RxMessageBus\\Dashboard.RxMessageBus.csproj",
       "projectName": "Dashboard.RxMessageBus",
-      "projectPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.RxMessageBus\\Dashboard.RxMessageBus.csproj",
+      "projectPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.RxMessageBus\\Dashboard.RxMessageBus.csproj",
       "packagesPath": "C:\\Users\\srikanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.RxMessageBus\\obj\\",
+      "outputPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.RxMessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2454,8 +2454,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj": {
-              "projectPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj"
+            "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj": {
+              "projectPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj"
             }
           }
         }

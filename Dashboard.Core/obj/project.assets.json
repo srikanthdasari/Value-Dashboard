@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj",
+      "projectUniqueName": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj",
       "projectName": "Dashboard.Core",
-      "projectPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj",
+      "projectPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.Core\\Dashboard.Core.csproj",
       "packagesPath": "C:\\Users\\srikanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.Core\\obj\\",
+      "outputPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

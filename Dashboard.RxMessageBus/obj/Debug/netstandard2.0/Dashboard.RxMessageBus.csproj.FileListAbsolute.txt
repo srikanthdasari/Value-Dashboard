@@ -9,3 +9,14 @@ C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.RxMessag
 C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.AssemblyInfo.cs
 C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.dll
 C:\Users\srikanth\Source\Repos\Value Dashboard\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.pdb
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\bin\Debug\netstandard2.0\Dashboard.RxMessageBus.deps.json
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\bin\Debug\netstandard2.0\Dashboard.RxMessageBus.dll
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\bin\Debug\netstandard2.0\Dashboard.RxMessageBus.pdb
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\bin\Debug\netstandard2.0\Dashboard.Core.dll
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\bin\Debug\netstandard2.0\Dashboard.Core.pdb
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.csprojResolveAssemblyReference.cache
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.csproj.CoreCompileInputs.cache
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.AssemblyInfoInputs.cache
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.AssemblyInfo.cs
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.dll
+C:\Users\srikanth\Source\ValueDashboard\Dashboard.RxMessageBus\obj\Debug\netstandard2.0\Dashboard.RxMessageBus.pdb

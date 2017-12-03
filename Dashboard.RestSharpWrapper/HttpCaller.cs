@@ -8,7 +8,7 @@ namespace Dashboard.RestSharpWrapper
 {
     public class HttpCaller : ICaller
     {
-        public IResponse Call(IRequest req)
+        public virtual IResponse Call(IRequest req)
         {
             if (req.IsNull()) return null;
 
@@ -23,13 +23,13 @@ namespace Dashboard.RestSharpWrapper
             {
                 restRequest.AddParameter(z.Key, z.Value);
             });
-           
 
-            
-            httpReq.Headers.IfNotNull(x=>x.ToList()).IfNotNull(y => y).ForEach(z =>
-            {
-                restRequest.AddHeader(z.Key, z.Value);
-            });
+
+
+            httpReq.Headers.IfNotNull(x => x.ToList()).IfNotNull(y => y).ForEach(z =>
+              {
+                  restRequest.AddHeader(z.Key, z.Value);
+              });
 
 
             httpReq.QueryParameters.IfNotNull(x => x.ToList()).IfNotNull(y => y).ForEach(z =>

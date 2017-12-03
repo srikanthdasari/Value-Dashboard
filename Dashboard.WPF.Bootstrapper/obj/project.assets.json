@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\Dashboard.WPF.Bootstrapper.csproj",
+      "projectUniqueName": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\Dashboard.WPF.Bootstrapper.csproj",
       "projectName": "Dashboard.WPF.Bootstrapper",
-      "projectPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\Dashboard.WPF.Bootstrapper.csproj",
+      "projectPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\Dashboard.WPF.Bootstrapper.csproj",
       "packagesPath": "C:\\Users\\srikanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srikanth\\Source\\Value Dashboard\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\obj\\",
+      "outputPath": "C:\\Users\\srikanth\\Source\\ValueDashboard\\Dashboard.WPF.Bootstrapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
